@@ -1,0 +1,45 @@
+
+package projetSim;
+import java.io.*;
+//import java.util.*;
+
+public class PRINCIPALE {
+	public static String imei="";
+	public static String msisdn="";
+	public static void main (String args[]) throws IOException { 
+		//FileReader fichier = new FileReader ("C:\\Users\\LamousJM\\Documents\\Java\\LireSimCard\\Janvier2016\\lire-imsi.txt") ; 
+		//LineNumberReader lnr = null; 
+		String ligne=""; // Current line of the text file 
+		String garder="";
+
+		
+		FileReader fichier = new FileReader("C:\\Users\\LamousJM\\Documents\\Java\\LireSimCard\\lire-imsi.txt");
+		BufferedReader bufferedReader = new BufferedReader(fichier);
+		// Do As long as ligne is not null 
+		  while ((ligne = bufferedReader.readLine()) != null)  {
+			  /*Read the line of the file and extract the spaces while affecting the file contents in the string keep */  
+			     garder=ligne.trim();  
+			     //String [] garderChaine = garder.split(" = ");
+			     if (garder.startsWith("imeisv = ")&&(garder.length()==25)){
+			     //for (int i=0; i <garderChaine.length;i++){
+			         //String Str = garderChaine[i];
+			    	 imei=garder.substring(0,25);
+			     }else{
+			    	 
+			    	 if (garder.startsWith("msisdn = ")&&(garder.length()==20)){
+			    		 msisdn=garder.substring(0,20);
+			    		 System.out.println(msisdn +" "+imei);
+			    	 }
+			     }
+			     imei = "";  
+		         msisdn = "";
+			         
+		  }
+		      
+		  while (ligne != null) ;// fin de while 
+		         bufferedReader.close () ;// File closed
+		        
+	}
+
+}
+

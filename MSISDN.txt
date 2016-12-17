@@ -1,0 +1,10 @@
+package projetSim;
+
+public class MSISDN {
+	
+	String code_prefixe =null;
+	String NPA =null;
+	String NXX =null;
+	
+
+}
