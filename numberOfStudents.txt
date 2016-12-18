@@ -1,0 +1,39 @@
+class IgnoreCaseComparator implements Comparator<String> {
+  public int compare(String s1, String s2) {
+    int res = sl.compareToIgnoreCase(s2);
+    return res != 0 ? res : s1.compareTo(s2);
+  }
+}
+
+/********************************************************************
+//  Student.java       Author: JML
+//
+//  Represents a student. Demonstrate inheritance.
+//********************************************************************
+
+public class Student
+{
+   protected String name;
+   protected int numCourses;
+
+   //-----------------------------------------------------------------
+   //  Sets up name and number of courses for a specific student.
+   //-----------------------------------------------------------------
+   public Student (String studentName, int courses)
+   {
+      name = studentName;
+      numCourses = courses;
+   }
+
+   //-----------------------------------------------------------------
+   //  Returns the student information as string.
+   //-----------------------------------------------------------------
+   public String toString()
+   {
+      String result = "Student name: " + name + "\n";
+
+      result += "Number of courses: " + numCourses;
+
+      return result;
+   }
+}
