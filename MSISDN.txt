@@ -1,8 +1,7 @@
 /********************************************************************
 //  MSISDN.txt       Author: JML
-//
-//  Represents a student. Demonstrate inheritance.
 //********************************************************************
+
 package projetSim;
 
 public class MSISDN {
