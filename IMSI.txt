@@ -1,3 +1,8 @@
+/********************************************************************
+//  IMSI.txt       Author: JML
+//
+//  Represents a student. Demonstrate inheritance.
+//********************************************************************
 package projetSim;
 
 public class IMSI {
