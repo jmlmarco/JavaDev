@@ -7,9 +7,7 @@ class IgnoreCaseComparator implements Comparator<String> {
 
 /********************************************************************
 //  Student.java       Author: JML
-//
-//  Represents a student. Demonstrate inheritance.
-//********************************************************************
+//*******************************************************************
 
 public class Student
 {
