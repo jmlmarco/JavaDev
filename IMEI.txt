@@ -1,7 +1,5 @@
 /********************************************************************
 //  IMEI.txt       Author: JML
-//
-//  Represents a student. Demonstrate inheritance.
 //********************************************************************
 package projetSim;
 
