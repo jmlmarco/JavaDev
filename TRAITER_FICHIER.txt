@@ -1,3 +1,8 @@
+/********************************************************************
+//  TRAITER_FICHIER.txt       Author: JML
+//
+//  Represents a student. Demonstrate inheritance.
+//********************************************************************
 package projetSim;
 import java.io.*;
 import java.util.*;
