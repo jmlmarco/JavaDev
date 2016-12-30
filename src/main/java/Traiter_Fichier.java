@@ -34,7 +34,7 @@ public class Traiter_Fichier {
             } else if (line.contains("msisdn = ")) {
                 chmsisdn = SimCardMsisdn(chaine);
                //System.out.println(chimsi + ", " + chimeisv + ", " + chmsisdn);
-                Tab.add(chimsi + "-" + chimeisv + "-" + chmsisdn + "\n");
+                Tab.add(chimsi+" - "+chimeisv+" - "+chmsisdn+"\n");
                 i++;
             }
            // Tab[i] = chimsi.toString() + ", " + chimeisv.toString() + ", " + chmsisdn.toString();

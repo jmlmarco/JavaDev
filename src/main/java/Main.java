@@ -11,7 +11,7 @@ public class Main {
         ArrayList tabimisi =Traiter_Fichier.ouvrir();
        // for (int i = 0 ; i<tabimisi.size();i++)
         System.out.println(tabimisi);
-        System.out.println("Tableau de recurence");
+
 
 
     }
