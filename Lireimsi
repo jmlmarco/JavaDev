@@ -1,0 +1,706 @@
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25099
+eci = 25777666
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3526780009100050
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 14385010050
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777888
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3526780009100050
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 14385010050
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777544
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3528780009100090
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 15146010890
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777322
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3528780009100090
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 15146010890
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777111
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3528780009100090
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 15146010890
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777111
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3528780009100099
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 15146010899
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777111
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3528780009100090
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 15146010890
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777111
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3528780009100095
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 15146010895
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25030
+eci = 25777111
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3528780009100095
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 15146010895
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25099
+eci = 25777666
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3526780009100060
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 14385010060
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25099
+eci = 25777666
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3526780009100055
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 14385010055
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25099
+eci = 25777666
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3526780009100055
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 14385010055
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
+
+
+======EVENT======
+l_header:
+header:
+event_id = l_attach
+event_result = reject
+time_hour = 7
+time_minute = 39
+time_second = 23
+time_millisecond = 468
+duration = 0
+attach_type = combined_eps_imsi_attach
+l_cause_prot_type = nas
+cause_code = #19(esm failure)
+sub_cause_code = #758(apn resolving failed  no match)
+tai:
+mcc = 302
+mnc = 100
+tac = 25099
+eci = 25777666
+mmei:
+mmegi = 33024
+mmec = 40
+ueid:
+imsi = 302100000000300
+imeisv = 3526780009100055
+apn =
+s_gw:
+ipv4 = undefined
+ipv6 = undefined
+pdn_info:
+default_bearer_id = 0
+paa:
+ipv4 = undefined
+ipv6 = undefined
+p_gw:
+ipv4 = undefined
+ipv6 = undefined
+request_retries = 0
+sms_only = undefined
+msisdn = 14385010055
+msc:
+ipv4 = undefined
+ipv6 = undefined
+target_lai:
+mcc = undefined
+mnc = undefined
+lac = undefined
+periodic_tau_timer = undefined
+originating_cause_prot_type = undefined
+originating_cause_code = undefined
+nas_esm_cause_code = 33
+ue_requested_apn = undefined
